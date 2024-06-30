@@ -1,5 +1,4 @@
-# simple_nn
-A simple neural network implementation in Python using only numpy.
+# simple_nn (A simple neural network implementation in Python using only numpy.)
 
 ## Architecture
 The neural network is a VERY simple feedforward neural network with one hidden layer. The input layer has 784 nodes, the hidden layer has 128 nodes, and the output layer has 10 nodes. The activation function used for the hidden layer is ReLU. The output layer uses the softmax function. The neural network is trained online using the delta-rule.
